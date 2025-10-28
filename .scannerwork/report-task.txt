@@ -1,6 +1,7 @@
-projectKey=flutter-test
-serverUrl=http://localhost:9000
-serverVersion=25.10.0.114319
-dashboardUrl=http://localhost:9000/dashboard?id=flutter-test
-ceTaskId=eac46ae6-2a2a-4579-8edb-8f60563169f1
-ceTaskUrl=http://localhost:9000/api/ce/task?id=eac46ae6-2a2a-4579-8edb-8f60563169f1
+organization=irshadwac
+projectKey=irshadwac_flutter-test
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.69240
+dashboardUrl=https://sonarcloud.io/dashboard?id=irshadwac_flutter-test
+ceTaskId=AZoo8J5Z7XMPR05MAR02
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZoo8J5Z7XMPR05MAR02
